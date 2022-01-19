@@ -192,7 +192,9 @@ void rpsgame(int8_t host,struct RpsNetworkContext* rpsnc){
         }
     }
 }
-
+/*
+ *PROBABLY BEST NOT TO TOUCH THE MAIN FUNCTION BUT ITS UP TO YOU REALLY
+ */
 int main(){
 
     char srvip[] = "18.168.115.193";
